@@ -1,9 +1,8 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Dr. John Birky
-N:Birky;John;;Dr.;
-TITLE:Consultant Family Physician
-ROLE:Private Executive and Functional Medicine
+FN:Dr. John Birky MD
+N:Birky;John;;Dr.;MD
+TITLE:Consultant Family Physician - Private Executive and Functional Medicine
 TEL;TYPE=WORK,VOICE:+971553997368
 TEL;TYPE=CELL,VOICE,TEXT:+971500003577
 EMAIL;TYPE=WORK:drjohn@renuhealthclinic.com

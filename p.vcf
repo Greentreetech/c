@@ -1,6 +1,7 @@
 BEGIN:VCARD
 VERSION:3.0
 FN:Dr. John Birky MD
+PHOTO;VALUE=URI;TYPE=JPEG:https://greentreetech.github.io/c/photo.jpeg
 N:Birky;John;;Dr.;MD
 TITLE:Consultant Family Physician - Private Executive and Functional Medicine
 TEL;TYPE=CELL,VOICE,TEXT:+971500003577
